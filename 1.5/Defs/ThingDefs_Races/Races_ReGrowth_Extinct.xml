@@ -353,11 +353,11 @@
 					</shadowData>
 				</femaleGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhino</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhinoM</texPath>
 					<drawSize>2.25</drawSize>
 				</dessicatedBodyGraphicData>
 				<femaleDessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhino</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhinoF</texPath>
 					<drawSize>2.1</drawSize>
 				</femaleDessicatedBodyGraphicData>
 			</li>
@@ -379,11 +379,11 @@
 					</shadowData>
 				</femaleGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhino</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhinoM</texPath>
 					<drawSize>3</drawSize>
 				</dessicatedBodyGraphicData>
 				<femaleDessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhino</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/WoollyRhino/dessicated_WoollyRhinoF</texPath>
 					<drawSize>2.8</drawSize>
 				</femaleDessicatedBodyGraphicData>
 			</li>
@@ -705,7 +705,7 @@
 					<drawSize>1.2</drawSize>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/Dessicated_KittenSmilodon</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/dessicated_KittenSmilodon</texPath>
 					<drawSize>1.2</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
@@ -719,7 +719,7 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/Dessicated_Smilodon</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/dessicated_Smilodon</texPath>
 					<drawSize>1.6</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
@@ -733,7 +733,7 @@
 					</shadowData>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/Dessicated_Smilodon_east</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/Smilodon/dessicated_Smilodon_east</texPath>
 					<drawSize>2.4</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
@@ -1897,7 +1897,7 @@
 					<drawSize>1.0</drawSize>
 				</bodyGraphicData>
 				<dessicatedBodyGraphicData>
-					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_Synthetion</texPath>
+					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_SynthetionF</texPath>
 					<drawSize>1.0</drawSize>
 				</dessicatedBodyGraphicData>
 			</li>
@@ -1924,6 +1924,10 @@
 					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_Synthetion</texPath>
 					<drawSize>1.4</drawSize>
 				</dessicatedBodyGraphicData>
+				<femaleDessicatedBodyGraphicData>
+					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_SynthetionF</texPath>
+					<drawSize>1.4</drawSize>
+				</femaleDessicatedBodyGraphicData>
 			</li>
 			<li>
 				<bodyGraphicData>
@@ -1946,6 +1950,10 @@
 					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_Synthetion</texPath>
 					<drawSize>1.7</drawSize>
 				</dessicatedBodyGraphicData>
+				<femaleDessicatedBodyGraphicData>
+					<texPath>Things/Pawn/Animal/ReGrowth/Synthetion/dessicated_SynthetionF</texPath>
+					<drawSize>1.7</drawSize>
+				</femaleDessicatedBodyGraphicData>
 			</li>
 		</lifeStages>
 	</PawnKindDef>
